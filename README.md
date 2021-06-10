@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hjer
-- 👀 I’m interested in fishing and coding - they actually have alot in common. 
-- 🌱 I’m currently learning to be more efficient in Clojure
+👋 Hi, I’m @hjer
+👀 I’m interested in fishing and coding - they actually have alot in common. 
+🌱 I’m currently learning to be more efficient in Clojure and building the best fishing website on the web
 
 <!---
 hjer/hjer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
